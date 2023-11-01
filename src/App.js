@@ -1,6 +1,6 @@
 import './App.css';
-import PirmaisJaut  from './PirmaisJaut.js';
-import OtraisJaut from './OtraisJaut.js';
+import PirmaisJaut  from './components/PirmaisJaut.js';
+import OtraisJaut from './components/OtraisJaut.js';
 function App() {
   return (
     <main className="App-header">
