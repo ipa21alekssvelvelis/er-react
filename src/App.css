@@ -13,3 +13,13 @@ article{
   width: 95%;
   min-height: 100vh;
 }
+  .foto{ 
+    width: 400px;
+    height: 350px;
+  }
+  .hz{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+  }
